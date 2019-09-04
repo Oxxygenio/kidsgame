@@ -8,7 +8,7 @@ This game is currenty unplayable as its only the base frame for the game that is
 
 **ToDo list for project**
 
-- Refactor the CSS file to be more organized, less duplicate code.
+__- Refactor the CSS file to be more organized, less duplicate code.__
 - make timer work on "Game start".
 - make wordlist with Swedish 3 letter words.
 - make audio files for atleast 3 rounds of gameplay.
