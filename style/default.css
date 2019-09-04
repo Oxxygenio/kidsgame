@@ -13,7 +13,6 @@ body{
 
 
 .exercise-number{
-    text-align: center;
     color: #FFF;
     font-size: 3em;
 }
@@ -28,21 +27,18 @@ body{
     border: #999 solid 2px;
     background-color: #333;
     border-radius: 15%;
-    text-align: center;
     color: #FFF;
     font-size: 100px;
 }
 
 
 .result{
-    text-align: center;
     color: #FFF;
     font-size: 3em;
 }
 
 
 .timer-div{
-    text-align: center;
     color: #FFF;
     font-size: 100px; 
 }
@@ -71,7 +67,6 @@ body{
     border: #999 solid 2px;
     background-color: #252525;
     border-radius: 15%;
-    text-align: center;
     color: #FFF;
     font-size: 4em;
 }
@@ -82,7 +77,6 @@ body{
     margin: auto;
     color: #FFF;
     font-size: 3em;
-    text-align: center;
 }
 
 .info{
@@ -111,5 +105,9 @@ body{
     border: #333 solid 2px;
     border-radius: 15%;
     background-color: #610e10;
+}
+
+.text-center {
+    text-align: center;
 }
 
